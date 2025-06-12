@@ -1,7 +1,0 @@
-flask
-qdrant-client
-sentence-transformers
-torch
-numpy
-scikit-learn
-gunicorn
